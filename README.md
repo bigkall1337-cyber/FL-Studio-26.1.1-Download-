@@ -16,7 +16,6 @@
 ## 📋 Release Information
 
 - Version: 26.1.1
-- Release: v26.1.1
 - Platform: Windows
 
 ---
